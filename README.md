@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👋 你好，我是独立开发者
 
-<!--
-**dev-nana27/dev-nana27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**提供专业软件开发 / 网站搭建服务**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 技术栈
+- 前端：React / Vue / TypeScript / TailwindCSS
+- 后端：Node.js / Python / Go
+- 部署：Vercel / Railway / Docker
+
+📦 擅长项目
+- 企业官网 / 作品集网站
+- 管理后台 / 数据看板
+- 爬虫 / 数据采集系统
+- 响应式网站 / 中英双语网站
+- AI 应用 / 对接大模型 API
+
+✅ 服务承诺
+- 先沟通需求再报价，定价透明，无增项套路
+- 全程专属服务群一对一沟通
+- 阶段性交付确认，售后30天BUG修复
+
+📬 联系：微信/TG
